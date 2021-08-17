@@ -8,7 +8,7 @@ IP addresses can be treated as phone number. For one device to find another devi
 
 ## Switch
 
-A switch is a device to allow multiple devices to find one another on a LAN. A switch should be as transparent as possible, meaning the devices on the LAN does not need to know its existance.
+A switch is a device to allow multiple devices to find one another on a LAN. A switch should be as transparent as possible, meaning the devices on the LAN does not need to know its existance. You do not talk `to` your network switch, but you talk `through` your network switch.
 
 ## Router
 
