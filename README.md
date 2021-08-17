@@ -20,6 +20,10 @@ The gateway is the IP address of the router, one on the LAN and another on the W
 
 ## Subnet
 
+A subnet mask is not an IP address. It indicates the parts of your own IP address that form out LAN range.
+
+255 is 11111111 and 0 is 00000000.
+
 ## Reference
 
 - [yamaha_video_link](https://www.youtube.com/watch?v=udE60TJG0Qg)
