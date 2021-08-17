@@ -18,11 +18,16 @@ A router acts as a bridge to connect a devices to WAN, meaning by connecting to 
 
 The gateway is the IP address of the router, one on the LAN and another on the WAN. The question is when do you search for IP on the LAN and when do you search on WAN? We shall discuss this more on subnet.
 
-## Subnet
+## Subnet Mask
 
 A subnet mask is not an IP address. It indicates the parts of your own IP address that form out LAN range.
 
 255 is 11111111 and 0 is 00000000.
+
+IP Address | 192.168.10.11
+---|---
+Subnet Mask | 255.255.255.0
+LAN Range | 192.168.10.xxx
 
 ## Reference
 
