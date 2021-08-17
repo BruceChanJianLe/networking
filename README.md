@@ -12,7 +12,7 @@ A switch is a device to allow multiple devices to find one another on a LAN. A s
 
 ## Router
 
-A router acts as a bridge to connect a devices to WAN, meaning by connecting to a router, a device can now connect to or find another device is on WAN. Please refer to subnet mask and gateway.
+A router acts as a bridge to connect a devices to WAN, meaning by connecting to a router, a device can now connect to or find another device is on WAN. The router connect LAN through gateway to WAN. Please refer to subnet mask and gateway.
 
 ## Reference
 
