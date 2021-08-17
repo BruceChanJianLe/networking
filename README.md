@@ -14,6 +14,12 @@ A switch is a device to allow multiple devices to find one another on a LAN. A s
 
 A router acts as a bridge to connect a devices to WAN, meaning by connecting to a router, a device can now connect to or find another device is on WAN. The router connect LAN through gateway to WAN. Please refer to subnet mask and gateway.
 
+## Gateway
+
+The gateway is the IP address of the router, one on the LAN and another on the WAN. The question is when do you search for IP on the LAN and when do you search on WAN? We shall discuss this more on subnet.
+
+## Subnet
+
 ## Reference
 
 - [yamaha_video_link](https://www.youtube.com/watch?v=udE60TJG0Qg)
