@@ -29,6 +29,22 @@ IP Address | 192.168.10.11
 Subnet Mask | 255.255.255.0
 LAN Range | 192.168.10.xxx
 
+### Subnet Mask Table
+
+The best way is to follow the table subnet mask flag for LAN range. From ones to zeros is the best. If not it will introduce complication.
+
+Subnet Mask Flag | Binary Value | LAN Range Members
+---| ---| ---
+255 | `11111111`| 1
+254 | `11111110` | 2
+252 | `11111100` | 4
+248 | `11111000` | 8
+240 | `11110000` | 16
+224 | `11100000` | 32
+192 | `11000000` | 64
+128 | `10000000` | 128
+  0 | `00000000` | 256
+
 ## Reference
 
 - [yamaha_video_link](https://www.youtube.com/watch?v=udE60TJG0Qg)
